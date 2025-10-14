@@ -1,0 +1,11 @@
+# folder path for Kaggle competition data
+# download from Kaggle and save here
+
+# ignore everything in this directory
+*
+# except this .gitignore file
+!.gitignore
+!Disrupting Communities – Reddit Help.pdf
+!Doxxing - Reddit Help.pdf
+!Reddit Rules.pdf
+!Spam – Reddit Help.pdf

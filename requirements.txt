@@ -1,2 +1,4 @@
 kaggle
 jupyter
+pandas
+langchain_ollama
