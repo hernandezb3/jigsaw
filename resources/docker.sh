@@ -15,3 +15,6 @@ docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
 
 # run download and run llama3.2 3B
 docker exec -it ollama ollama pull llama3.2:3b
+
+# shell into docker container
+docker exec -t -i ollama /bin/bash
