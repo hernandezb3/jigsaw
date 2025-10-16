@@ -209,3 +209,4 @@ __marimo__/
 # Virtual Environment
 .venv
 main.py
+secrets.py
