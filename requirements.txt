@@ -2,3 +2,8 @@ kaggle
 jupyter
 pandas
 langchain_ollama
+
+torch
+transformers
+tqdm
+scikit-learn
