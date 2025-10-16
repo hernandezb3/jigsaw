@@ -1,4 +1,5 @@
 kaggle
+kagglehub
 jupyter
 pandas
 langchain_ollama
